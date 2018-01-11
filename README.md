@@ -11,3 +11,5 @@ This is a log of me writing a Video App in React and what components I'm adding.
 # Day 2
 ### -Made ShowCard Component
 ### -Added images and descriptions for each show
+
+Need to figure out why images don't show and why ShowCard can't find styled-components
