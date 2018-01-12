@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import ShowCard from "./ShowCard";
-import preload from "./data.json";
 
 class Search extends Component {
+
 	constructor(props) {
 		super(props);
 
@@ -30,7 +30,7 @@ class Search extends Component {
 					/>
 				</header>
 				<div>
-					{preload.shows
+					{this.props.shows
 						.filter(
 							show =>
 								`${show.title} ${show.description} ${show.year}`.toUpperCase().indexOf(this.state.searchTerm.toUpperCase()) >= 0

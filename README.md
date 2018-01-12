@@ -15,3 +15,7 @@ This is a log of me writing a Video App in React and what components I'm adding.
 ### -Added search filter
 
 Need to figure out why images don't show and why ShowCard can't find styled-components
+
+# Day 3
+### -Added routing for details page
+### -Added trailers in each details page
