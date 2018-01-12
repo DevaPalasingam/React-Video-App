@@ -19,3 +19,5 @@ Need to figure out why images don't show and why ShowCard can't find styled-comp
 # Day 3
 ### -Added routing for details page
 ### -Added trailers in each details page
+### -Turned Header into component
+### -Clicking on Header takes back to landing page
