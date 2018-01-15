@@ -3,6 +3,10 @@
 ## Description
 This is a log of me writing a Video App in React and what components I'm adding.
 
+![Search Bar](screenshots/search.png "This is the screen where you can search all the different shows")
+![Search Bar Example: Black](screenshots/search_black.png "The screen updates as you type")
+![Details Example: Breaking Bad](screenshots/breakingBad.png "This is an example of when you look up the details of a specific show")
+
 # Day 1
 ### -Initial commit
 ### -Added routing for Landing page, Search page, and 404 page
@@ -27,4 +31,3 @@ Need to figure out why images don't show and why ShowCard can't find styled-comp
 Need to figure out how to fix API to run
 Need to figure out why images don't show and why ShowCard can't find styled-components
 
-# Day 4
