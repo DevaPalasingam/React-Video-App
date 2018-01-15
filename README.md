@@ -21,3 +21,10 @@ Need to figure out why images don't show and why ShowCard can't find styled-comp
 ### -Added trailers in each details page
 ### -Turned Header into component
 ### -Clicking on Header takes back to landing page
+### -Added Api to randomly generate ratings
+### -Added loading spinner to run while waiting for rating API
+
+Need to figure out how to fix API to run
+Need to figure out why images don't show and why ShowCard can't find styled-components
+
+# Day 4
