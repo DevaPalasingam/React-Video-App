@@ -3,10 +3,6 @@
 ## Description
 This is a log of me writing a Video App in React and what components I'm adding.
 
-![Search Bar](screenshots/search.png "This is the screen where you can search all the different shows")
-![Search Bar Example: Black](screenshots/search_black.png "The screen updates as you type")
-![Details Example: Breaking Bad](screenshots/breakingBad.png "This is an example of when you look up the details of a specific show")
-
 # How to Use
 You can reach the landing page with this link:
 https://devapalasingam.github.io/React-Video-App/#/
@@ -16,6 +12,10 @@ The search bar on the landing page isn't functional at the moment. If you click 
 You can see specific details on each show with this link:
 https://devapalasingam.github.io/React-Video-App/#/details/tt0903747
 Just replace the last part with the imdbID found in the data.json.
+
+![Search Bar](screenshots/search.png "This is the screen where you can search all the different shows")
+![Search Bar Example: Black](screenshots/search_black.png "The screen updates as you type")
+![Details Example: Breaking Bad](screenshots/breakingBad.png "This is an example of when you look up the details of a specific show")
 
 # Day 1
 ### -Initial commit
