@@ -7,6 +7,16 @@ This is a log of me writing a Video App in React and what components I'm adding.
 ![Search Bar Example: Black](screenshots/search_black.png "The screen updates as you type")
 ![Details Example: Breaking Bad](screenshots/breakingBad.png "This is an example of when you look up the details of a specific show")
 
+# How to Use
+You can reach the landing page with this link:
+https://devapalasingam.github.io/React-Video-App/#/
+
+The search bar on the landing page isn't functional at the moment. If you click "or Browse All" you'll get a list of all the TV shows in the data.json. If you type something in the search bar, the screen will real-time-update with the shows that match what you type.
+
+You can see specific details on each show with this link:
+https://devapalasingam.github.io/React-Video-App/#/details/tt0903747
+Just replace the last part with the imdbID found in the data.json.
+
 # Day 1
 ### -Initial commit
 ### -Added routing for Landing page, Search page, and 404 page
